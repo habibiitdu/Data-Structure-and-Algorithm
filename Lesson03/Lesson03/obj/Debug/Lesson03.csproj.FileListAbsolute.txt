@@ -1,0 +1,8 @@
+E:\projects\Lesson03\Lesson03\bin\Debug\Lesson03.exe.config
+E:\projects\Lesson03\Lesson03\bin\Debug\Lesson03.exe
+E:\projects\Lesson03\Lesson03\bin\Debug\Lesson03.pdb
+E:\projects\Lesson03\Lesson03\obj\Debug\Lesson03.csprojResolveAssemblyReference.cache
+E:\projects\Lesson03\Lesson03\obj\Debug\Lesson03.exe
+E:\projects\Lesson03\Lesson03\obj\Debug\Lesson03.pdb
+E:\projects\Lesson03\Lesson03\bin\Debug\Lesson03.Core.dll
+E:\projects\Lesson03\Lesson03\bin\Debug\Lesson03.Core.pdb
