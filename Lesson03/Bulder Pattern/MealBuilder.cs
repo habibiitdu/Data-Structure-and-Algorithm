@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Bulder_Pattern
+namespace Builder_Pattern
 {
     public class MealBuilder
     {

@@ -7,7 +7,7 @@
     <ProjectGuid>{70571667-D5D9-4433-A148-8D5D38CCA613}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>Bulder_Pattern</RootNamespace>
+    <RootNamespace>Builder_Pattern</RootNamespace>
     <AssemblyName>Bulder Pattern</AssemblyName>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>

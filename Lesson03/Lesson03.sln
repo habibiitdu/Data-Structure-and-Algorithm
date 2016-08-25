@@ -16,7 +16,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AbstractFactory", "Abstract
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Singleton", "Singleton\Singleton.csproj", "{111DC2DB-8072-4459-8B83-AD985A9245EB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bulder Pattern", "Bulder Pattern\Bulder Pattern.csproj", "{70571667-D5D9-4433-A148-8D5D38CCA613}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Builder Pattern", "Bulder Pattern\Builder Pattern.csproj", "{70571667-D5D9-4433-A148-8D5D38CCA613}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 
 
-namespace Bulder_Pattern
+namespace Builder_Pattern
 {
     public class Meal
     {
