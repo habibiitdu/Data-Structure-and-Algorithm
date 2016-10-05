@@ -1,5 +1,0 @@
-E:\projects\Lesson03\Lesson03.Core\bin\Debug\Lesson03.Core.dll
-E:\projects\Lesson03\Lesson03.Core\bin\Debug\Lesson03.Core.pdb
-E:\projects\Lesson03\Lesson03.Core\obj\Debug\Lesson03.Core.dll
-E:\projects\Lesson03\Lesson03.Core\obj\Debug\Lesson03.Core.pdb
-E:\projects\Lesson03\Lesson03.Core\obj\Debug\Lesson03.Core.csprojResolveAssemblyReference.cache

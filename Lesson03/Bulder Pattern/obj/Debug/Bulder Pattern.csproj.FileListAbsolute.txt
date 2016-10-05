@@ -1,5 +1,0 @@
-E:\projects\Lesson03\Bulder Pattern\bin\Debug\Bulder Pattern.exe.config
-E:\projects\Lesson03\Bulder Pattern\bin\Debug\Bulder Pattern.exe
-E:\projects\Lesson03\Bulder Pattern\bin\Debug\Bulder Pattern.pdb
-E:\projects\Lesson03\Bulder Pattern\obj\Debug\Bulder Pattern.exe
-E:\projects\Lesson03\Bulder Pattern\obj\Debug\Bulder Pattern.pdb
