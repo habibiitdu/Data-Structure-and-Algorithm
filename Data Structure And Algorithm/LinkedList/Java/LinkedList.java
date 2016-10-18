@@ -36,6 +36,37 @@ public class LinkedList {
 		prev.setNode(null);
 	}
 
+	public void insertAfter(int insertAfterValue, Node insertingNode){
+		Node temp = nodes;
+		while(temp.getNodeValue() != insertAfterValue){
+			temp = temp.getNode();
+		}
+		Node restNodes = temp.getNode();
+		temp.setNode(insertingNode);
+		insertingNode.setNode(restNodes);
+	}
+
+	public void insertBefore(int insertBeforeValue, Node insertingNode){
+		Node temp = nodes;
+		Node previousNodes = null;
+		while(temp.getNodeValue() != insertBeforeValue){
+			previousNodes = temp;
+			temp = temp.getNode();
+		}
+		previousNodes.setNode(insertingNode);
+		insertingNode.setNode(temp);
+	}
+
+	public void deleteNode(int deletingNodeValue){
+		Node temp = nodes;
+		Node previousNodes = null;
+		while(temp.getNodeValue() != deletingNodeValue){
+			previousNodes = temp;
+			temp = temp.getNode();
+		}
+		previousNodes.setNode(temp.getNode());
+	}
+
 	public void printLinkedList(){
 		do{
 			System.out.print(nodes.getNodeValue()+" ");

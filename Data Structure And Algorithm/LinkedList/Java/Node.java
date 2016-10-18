@@ -1,9 +1,10 @@
 package com.ds.linkedList;
 
+//Singly/Linear/One way Linked List
+
 public class Node {
 	private int nodeValue;
 	private Node node = null;
-
 
 	public Node(int nodeValue) {
 		this.nodeValue = nodeValue;
